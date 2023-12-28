@@ -1,0 +1,38 @@
+{
+    "questions":[
+    
+    
+    {
+        "question":"what is the capital of france?",
+        "choices":["London","Paris","Rome","Berlin"],
+        "correctAnswer":"Paris"
+    },
+    {
+    
+    
+        "question":"India has provided a $250 million Line of Credit to which country for the modernization of its agricultural sector??",
+        "choices":["Nigeria","South Africa","Ethiopia","Kenya"],
+        "correctAnswer":"Kenya"
+    
+    
+    },
+    {
+        "question":"Grand Central Terminal, Park Avenue, New York is the world's",
+        "choices":["largest railway station","highest railway station","longest railway station","none"],
+        "correctAnswer":"largest railway station"
+    },
+    {
+        "question":"Entomology is the science that studies?",
+        "choices":["Behavior of human beings","Insects","The origin and history of technical and scientific terms","The formation of rocks"],
+        "correctAnswer":"Insects"
+    },
+    {
+        "question":"what is the capital of india?",
+        "choices":["London","Paris","Rome","New Delhi"],
+        "correctAnswer":"New Delhi"
+    }
+    ]
+    }
+    
+    
+    
